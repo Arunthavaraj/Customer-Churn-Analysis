@@ -39,7 +39,7 @@ The process follows a structured approach:
 
 ## 💡 **How to Use**
 1. Clone the repository:  
-   `git clone https://github.com/yourusername/churn-prediction.git`
+   `git clone https://github.com/Arunthavaraj/Customer-Churn-Prediction.git`
    
 2. Run the IPYNB file
    `Customer Churn Analysis.ipynb`
