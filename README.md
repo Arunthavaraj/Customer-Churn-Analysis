@@ -41,13 +41,8 @@ The process follows a structured approach:
 1. Clone the repository:  
    `git clone https://github.com/yourusername/churn-prediction.git`
    
-2. Install dependencies:  
-   `pip install -r requirements.txt`
-   
-3. Run the model:  
-   `python churn_prediction.py`
-
-4. Evaluate performance and tweak parameters to suit your dataset.
+2. Run the IPYNB file
+   `Customer Churn Analysis.ipynb`
 
 ## 💬 **Contribute**
 Feel free to fork this repository, make improvements, and create a pull request. Together, we can help banks improve customer retention and satisfaction!
